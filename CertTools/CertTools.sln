@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreatWare.CertTools", "StreatWare.CertTools\StreatWare.CertTools.csproj", "{C199BB47-DAD1-4071-A5A9-A0293D26B0F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreatWare.CertTools.Test", "StreatWare.CertTools.Test\StreatWare.CertTools.Test.csproj", "{8565EC7B-0000-45B7-AAA5-882AE526E642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C199BB47-DAD1-4071-A5A9-A0293D26B0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C199BB47-DAD1-4071-A5A9-A0293D26B0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C199BB47-DAD1-4071-A5A9-A0293D26B0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C199BB47-DAD1-4071-A5A9-A0293D26B0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8565EC7B-0000-45B7-AAA5-882AE526E642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8565EC7B-0000-45B7-AAA5-882AE526E642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8565EC7B-0000-45B7-AAA5-882AE526E642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8565EC7B-0000-45B7-AAA5-882AE526E642}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
